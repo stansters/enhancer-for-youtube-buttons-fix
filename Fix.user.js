@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         "Enhancer for YouTube" Buttons Fix
 // @namespace    https://github.com/stansters/enhancer-for-youtube-buttons-fix
-// @version      1.0.1
+// @version      1.0.2
 // @description  Fix the misaligned "Enhancer for YouTube" buttons for the new YouTube UI update
 // @author       stansters
 // @match        https://www.youtube.com/*
