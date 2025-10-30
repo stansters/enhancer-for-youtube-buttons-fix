@@ -41,10 +41,10 @@
         /* Fix SVG sizing - need to override inline styles */
         .ytp-efyt-button svg,
         #efyt-controls-button svg {
-            min-width: 36px !important;
-            min-height: 36px !important;
-            max-width: 36px !important;
-            max-height: 36px !important;
+            min-width: 48px !important;
+            min-height: 48px !important;
+            max-width: 48px !important;
+            max-height: 48px !important;
         }
     `;
 
